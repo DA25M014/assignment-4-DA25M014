@@ -26,7 +26,11 @@ metrics: accuracy_score, precision_recall_fscore_support, confusion_matrix,roc_c
 | Model          | Accuracy | Precision | Recall | F1-score |
 
 | Baseline       | 0.9991 | 0.8267 | 0.6327 | 0.7168 |
+
+
 | GMM-Only       | 0.9811 | 0.0763 | 0.8980 | 0.1406 |
+
+
 | CBU+GMM        | 0.9712 | 0.0523 | 0.9184 | 0.0990 |
 
 
